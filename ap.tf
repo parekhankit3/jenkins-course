@@ -1,1 +1,1 @@
-this is for practise terraform
+is for practise terraform
